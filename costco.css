@@ -1,0 +1,44 @@
+#logo {
+	height: 70px;
+	margin-top: 30px;
+}
+#menu {
+	background-color: #EDEDED;
+}
+#bar {
+	background-color: #0273A5;
+}
+.a {
+	color: white;
+	font-size: 20px;
+	margin-left: 40px;
+}
+body {
+	font-family: sans-serif;
+}
+#bottom {
+	background-color: #EDEDED;
+	font-size: 20px;
+}
+#facebook {
+	height: 30px;
+}
+#twitter {
+	height: 40px;
+}
+#banner {
+	margin-top: 50px;
+	margin-bottom: 25px;
+	height: 86px;
+}
+.margins {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.about {
+	font-size: 16px;
+	color: #5F5F5F;
+}
+#aboutUs {
+	color: black;
+}
