@@ -5,9 +5,6 @@
 #menu {
 	background-color: #EDEDED;
 }
-#bar {
-	background-color: #0273A5;
-}
 .a {
 	color: white;
 	font-size: 20px;
@@ -68,4 +65,25 @@ body {
 	flex-direction: row;
 	position: absolute;
 	font-size: 20px;
+}
+.photos {
+	margin-top: 30px;
+}
+.menuitem:hover .submenu {
+		display: block;
+}
+.submenuitem {
+	display: block;
+	
+}
+.submenu {
+	background-color: white;
+	display: none;
+	position: absolute;
+	z-index: 100;
+}
+#bar {
+	background-color: #0273A5;
+	display: flex;
+	flex-direction: row;
 }
